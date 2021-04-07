@@ -1,0 +1,31 @@
+
+.btns-groups {
+    text-align: center;
+    margin: 5px 5px;
+}
+
+.btn {
+    margin: 5px 5px;
+    border-style: none;
+    cursor: pointer;
+    width: 200px;
+    background: none;
+    margin: 10px 0;
+    font-size: large;
+}
+
+.btn:hover {
+    color: rgb(214, 23, 23);
+}
+
+.containers {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.filterKgPeople{
+    display: flex;
+    justify-content: center;
+    margin-left: 10px;
+    padding-left: 10px;
+}

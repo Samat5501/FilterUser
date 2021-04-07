@@ -1,0 +1,40 @@
+.user-card img {
+    width: 200px;
+    height: 200px;
+}
+
+.user-card {
+    height: 300px;
+    border: 1px solid;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    background-color: rgb(233, 63, 205);
+}
+
+.title {
+    text-align: center;
+    font-size: large;
+}
+
+.age {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    border-radius: 50px;
+    color: blue;
+    background: rgb(253, 199, 51);
+}
+
+.country {
+    text-align: center;
+    font-size: large;
+    color: rgb(225, 243, 125);
+}
